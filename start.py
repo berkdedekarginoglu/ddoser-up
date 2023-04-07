@@ -1625,9 +1625,9 @@ if __name__ == '__main__':
                     logger.setLevel("DEBUG")
                 '''
 
-                logger.setLevel("DEBUG"
+                logger.setLevel("DEBUG")
 
-                        
+
                 ctype = ''
                 body = ''
                 if method == "POST":
