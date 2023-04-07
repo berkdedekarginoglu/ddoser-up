@@ -1620,9 +1620,14 @@ if __name__ == '__main__':
                         "https://github.com/MHProDev/MHDDoS/wiki/BOMB-method"
                     )
 
+                '''
                 if len(argv) == 9:
                     logger.setLevel("DEBUG")
+                '''
 
+                logger.setLevel("DEBUG"
+
+                        
                 ctype = ''
                 body = ''
                 if method == "POST":
